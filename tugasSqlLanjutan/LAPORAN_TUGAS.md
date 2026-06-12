@@ -2,7 +2,7 @@
 **Mata Kuliah:** SQL Lanjutan  
 **Topik:** Self Join, Trigger, dan Stored Procedure  
 **Database:** `KuliahSQLLanjut`  
-**Penyusun:** Bu Fan  
+**Penyusun:** Bufan  
 
 ---
 
